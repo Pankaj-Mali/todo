@@ -1,0 +1,53 @@
+.maincontainer{
+    position: fixed;
+    height: 89vh;
+    width: 100%;
+    border: 2px bolid black;
+    display:flex;
+    flex-direction: row;
+}
+
+.left{
+    width: 20%;
+    height: 100%;
+    border: 1px solid gray ;
+    background-color: rgb(85, 144, 193);  
+}
+.left > p {
+    color: blue;
+    text-align: center;
+}
+
+
+.history > h1 {
+    text-align: center;
+}
+
+.logout{
+   margin-top: 70vh;
+   margin-left: 20%;
+}
+
+.logout>button{
+    border: 0px solid rgb(85, 144, 193) ;
+    background-color: rgb(85, 144, 193); 
+    font-size: x-large;
+    font-weight: 500; 
+}
+.right{
+   float:right;
+    width: 80%;
+    height: 100%;
+    background-color: rgb(215, 214, 214);
+}
+.addtodo{
+    float: right;
+    margin-top:20px ;
+    margin-right: 20px;
+    width: 150px;
+    height: 25px;
+    background-color: #f5683d;
+    border: 1px solid gray ;
+    color: aqua;
+}
+

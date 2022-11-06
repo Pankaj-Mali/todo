@@ -1,0 +1,40 @@
+.formholder{
+    width: 30% ;
+    margin: auto;
+    margin-top:100px;
+    padding: 20px;
+    padding-top: 0px;
+    border: 1px solid gray;
+    background-color: #f5683d;
+}
+.formholder> h1 {
+    text-align: center;
+    color: green;
+}
+
+.le{
+    height: 25px;
+    width: 90%;
+    display: block;
+
+}
+.lp{
+    height: 25px;
+    width: 90%;
+    display: block;
+    margin-top: 10px;
+}
+
+.loginB{
+    height: 25px;
+    width: 50%;
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+    margin-left: 25%;
+}
+
+.link{
+    margin-top: 10px;
+    text-align: center;
+}
